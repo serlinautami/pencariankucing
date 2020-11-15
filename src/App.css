@@ -101,6 +101,7 @@ tr, td, th {
 }
 
 .card-item-detail {
+  overflow-x: auto;
   padding: 24px 0;
 }
 
