@@ -103,7 +103,7 @@ function App() {
 
   return (
     <div className="container">
-      <div className="title">Daftar Hewan Kucing</div>
+      <div className="title">Daftar Kucing</div>
       <div>
         <form onSubmit={handleSearch} className="input-search">
           <img className="input-search-img" src={searchImg}></img>
